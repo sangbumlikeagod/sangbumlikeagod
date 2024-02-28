@@ -1,5 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangbumlikeagod&show_icons=true&theme=vue)
 
+
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</div>
+
+
 <div>
   <h1>FRONT</h1>
 </div>
@@ -16,7 +24,3 @@
   <h1>BACK</h1>
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</div>
