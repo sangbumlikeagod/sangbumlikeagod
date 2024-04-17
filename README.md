@@ -29,4 +29,4 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hju753)](https://solved.ac/upinkfloydu)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=upinkfloydu)](https://solved.ac/upinkfloydu)<br/>
