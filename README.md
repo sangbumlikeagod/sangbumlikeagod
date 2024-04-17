@@ -1,8 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangbumlikeagod&show_icons=true&theme=vue)
 
+
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=upinkfloydu)](https://solved.ac/ㅁupinkfloydu)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=upinkfloydu)](https://solved.ac/upinkfloydu)
 <br/>
+
 
 <div>
   <h1>BACK</h1>
@@ -28,6 +30,3 @@
   <h1>OTHERS</h1>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
-
-
-
