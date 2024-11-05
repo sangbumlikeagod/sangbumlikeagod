@@ -8,7 +8,7 @@
 
 <br/>
 <br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/oironese?ext=heatmap)](https://leetcode.com/oironese)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/oironese?ext=heatmap)](https://leetcode.com/oironese)<br/>
 <br/>
 <div>
   <h1>BACK</h1>
