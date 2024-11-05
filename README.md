@@ -7,8 +7,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=upinkfloydu)](https://solved.ac/upinkfloydu)<br/>
 
 <br/>
-
-
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/oironese?ext=heatmap)](https://leetcode.com/oironese)
+<br/>
 <div>
   <h1>BACK</h1>
 </div>
